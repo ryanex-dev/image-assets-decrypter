@@ -13,7 +13,7 @@ termux-setup-storage
 mkdir -p /storage/emulated/0/ryanex
 cd /storage/emulated/0/ryanex
 
-git clone https://github.com/rianhendriana13-collab/image-assets-decrypter.git repo_tmp
+git clone https://github.com/ryanex-dev/image-assets-decrypter.git repo_tmp
 
 cp repo_tmp/image_decrypter_v4.py .
 rm -rf repo_tmp
